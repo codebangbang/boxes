@@ -1,0 +1,17 @@
+div.App {
+  background-color: #f0f0f0;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+div.Box {
+  margin: auto;
+  margin-top: 20px;
+}
